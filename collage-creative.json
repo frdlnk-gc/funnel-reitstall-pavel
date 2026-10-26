@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-weiss-hd.png",
+ "fotos": [
+  "img/foto-hd-hofanlage.jpg",
+  "img/foto-hd-pferd-fuehren.jpg",
+  "img/foto-hd-reithalle.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.5,
+   0.5
+  ]
+ ],
+ "primary": "#1D1D1B",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Stallmeister (m/w/d)",
+  "rund 180 Pferde"
+ ],
+ "headline_zusatz": "Voll- oder Teilzeit, unbefristet",
+ "ort": "Calden · Kassel · Vellmar · Hofgeismar",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}

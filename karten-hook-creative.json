@@ -1,0 +1,20 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-weiss-hd.png",
+ "foto": "img/foto-hd-pferd-fuehren.jpg",
+ "fokus": [
+  0.6,
+  0.4
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#1D1D1B",
+ "headline": [
+  "STALLMEISTER"
+ ],
+ "headline_zusatz": "(m/w/d) · unbefristet",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Calden · Kassel · Vellmar · Hofgeismar"
+}

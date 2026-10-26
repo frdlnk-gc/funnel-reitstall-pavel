@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-koppel-stall.jpg",
+  "primary": "#1D1D1B",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#1D1D1B",
+  "kicker": "WIR SUCHEN IN CALDEN",
+  "headline": [
+   "Stallmeister",
+   "(m/w/d)"
+  ],
+  "subline": "Für unseren Pensionsbetrieb mit rund 180 Pferden bei Kassel.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.55
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-team-pavel.jpg",
+  "primary": "#1D1D1B",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN CALDEN",
+  "headline": [
+   "Stallmeister (m/w/d)"
+  ],
+  "checkliste": [
+   "Feste Arbeitszeiten, verlässlicher Feierabend",
+   "Weihnachtsgeld",
+   "Kostenlose Reitstunden"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.35
+  ]
+ }
+]
