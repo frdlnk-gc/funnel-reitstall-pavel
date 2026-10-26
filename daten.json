@@ -1,0 +1,126 @@
+{
+  "firma": "Reitstall Pavel",
+  "stelle": "Stallmeister (m/w/d)",
+  "ort": "Calden",
+  "plz": "34379",
+  "branche": "landwirtschaft",
+  "farbe_primary": "#1D1D1B",
+  "farbe_secondary": "#C5AA58",
+  "region_badge": "Calden & Umgebung",
+  "benefit_top": "Feste Arbeitszeiten & verlässlicher Feierabend",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag – Vollzeit oder Teilzeit (30–41,5 Std./Woche)",
+    "Feste Arbeitszeiten mit verlässlichem Feierabend",
+    "Weihnachtsgeld & Ausgleich für Wochenend- und Feiertagsarbeit",
+    "Kostenlose Mahlzeiten bzw. Verpflegungspauschale",
+    "Tankgutscheine, Jobrad-Leasing & Getränke-Flatrate",
+    "Hilfe bei der Wohnungssuche & Kita-Zuschuss",
+    "Kostenübernahme für Anhängerführerschein & berufliche Zertifizierungen",
+    "Kostenlose Reitstunden"
+  ],
+  "aufgaben": [
+    "Du organisierst die täglich anfallenden Aufgaben und teilst das Team ein",
+    "Du fütterst Raufutter, übernimmst die Medikamentengabe und stellst die Pferde auf die Koppel und wieder rein",
+    "Du hältst Fütterungstechnik, Fuhrpark und Hofanlage instand",
+    "Du übernimmst Aufgaben in der Landwirtschaft: Streuer, Schleppe, Wender, Schwader, Einfuhr und Einlagerung von Quaderballen",
+    "Du reinigst die Hofflächen und mistest zwei Mal wöchentlich"
+  ],
+  "anforderung": "Du bist Pferdewirtschaftsmeister, FN-Pferdewirt oder Landwirt mit Großvieherfahrung – oder hast mehrjährige Praxis in der Pferdehaltung. Auch Handwerker (Holz, Metall, Elektro) mit ersten Erfahrungen mit Pferden sind willkommen. Du kannst Auszubildende und Hilfskräfte anleiten, gehst geduldig und freundlich mit Kunden um und bist bereit, an bestimmten Wochenenden und Feiertagen zu arbeiten. Einstieg ab Dezember 2026.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Pferdewirtschaft",
+      "icon": "🐴",
+      "qualifikationen": [
+        {
+          "label": "Pferdewirtschaftsmeister",
+          "icon": "🏅"
+        },
+        {
+          "label": "FN-Pferdewirt",
+          "icon": "🎓"
+        },
+        {
+          "label": "Mehrjährige Praxis in der Pferdehaltung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Landwirtschaft",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Landwirt mit Großvieherfahrung",
+          "icon": "🎓"
+        },
+        {
+          "label": "Quereinsteiger mit Großvieherfahrung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Handwerk (Holz, Metall, Elektro)",
+      "icon": "🔧",
+      "qualifikationen": [
+        {
+          "label": "Mit ersten Erfahrungen mit Pferden",
+          "icon": "🐴"
+        },
+        {
+          "label": "Noch ohne Pferdeerfahrung",
+          "icon": "💡"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Mit Erfahrung in der Pferdehaltung",
+          "icon": "🐴"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "💡"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "15",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "1979",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "~180",
+        "label": "Pferde"
+      }
+    ],
+    "text": "Reitstall Pavel ist ein Familienbetrieb seit 1979 bei Kassel: Reitschule, Pferdepension und Ausbildung von Pferd und Reiter. Rund 180 Pferde stehen in Boxen und Aktivställen, dazu kommen moderne Fütterungstechnik und Fuhrpark. Artgerechte Haltung und Sport sind für den Betrieb kein Widerspruch."
+  },
+  "kunde_tab": "33 Reitstall Pavel",
+  "quelle": "https://reitstall-pavel.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Calden"
+  },
+  "hero_bild": "img/hero-hofanlage.jpg",
+  "bilder": [
+    "img/f1-pferd-fuehren.jpg",
+    "img/f2-koppel-stall.jpg",
+    "img/f3-reithalle.jpg",
+    "img/f6-team-pavel.jpg",
+    "img/f4-springplatz.jpg",
+    "img/f5-reitunterricht.jpg",
+    "img/f7-pony.jpg"
+  ]
+}
